@@ -25,7 +25,7 @@ This repository contains my solutions to **25** challenges proposed by [Midudev]
 | #16       | ❌ Friday deployment              | 🟢 Easy       | [Description](challenges/16.md)  | [Solution](solutions/16.js) |
 | #17       | 🛷 Optimizing the rental          | 🟢 Easy       | [Description](challenges/17.md)  | [Solution](solutions/17.js) |
 | #18       | 🔢 The digital clock              | 🔴 Hard       | [Description](challenges/18.md)  | [Solution](solutions/18.js) |
-| #19       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
+| #19       | 💣 Face the sabotage              | 🟠 Medium     | [Description](challenges/19.md)  | [Solution](solutions/19.js) |
 | #20       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
 | #21       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
 | #22       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
