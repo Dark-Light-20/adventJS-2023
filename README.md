@@ -28,7 +28,7 @@ This repository contains my solutions to **25** challenges proposed by [Midudev]
 | #19       | 💣 Face the sabotage              | 🟠 Medium     | [Description](challenges/19.md)  | [Solution](solutions/19.js) |
 | #20       | 🏋️‍♂️ Distribute the weight          | 🔴 Hard       | [Description](challenges/20.md)  | [Solution](solutions/20.js) |
 | #21       | 🪐 Binary message                 | 🟠 Medium     | [Description](challenges/21.md)  | [Solution](solutions/21.js) |
-| #22       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
+| #22       | 🚂 Programming language           | 🟢 Easy       | [Description](challenges/22.md)  | [Solution](solutions/22.js) |
 | #23       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
 | #24       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
 | #25       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
