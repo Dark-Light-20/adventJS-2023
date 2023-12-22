@@ -27,7 +27,7 @@ This repository contains my solutions to **25** challenges proposed by [Midudev]
 | #18       | 🔢 The digital clock              | 🔴 Hard       | [Description](challenges/18.md)  | [Solution](solutions/18.js) |
 | #19       | 💣 Face the sabotage              | 🟠 Medium     | [Description](challenges/19.md)  | [Solution](solutions/19.js) |
 | #20       | 🏋️‍♂️ Distribute the weight          | 🔴 Hard       | [Description](challenges/20.md)  | [Solution](solutions/20.js) |
-| #21       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
+| #21       | 🪐 Binary message                 | 🟠 Medium     | [Description](challenges/21.md)  | [Solution](solutions/21.js) |
 | #22       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
 | #23       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
 | #24       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
