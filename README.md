@@ -29,7 +29,7 @@ This repository contains my solutions to **25** challenges proposed by [Midudev]
 | #20       | 🏋️‍♂️ Distribute the weight          | 🔴 Hard       | [Description](challenges/20.md)  | [Solution](solutions/20.js) |
 | #21       | 🪐 Binary message                 | 🟠 Medium     | [Description](challenges/21.md)  | [Solution](solutions/21.js) |
 | #22       | 🚂 Programming language           | 🟢 Easy       | [Description](challenges/22.md)  | [Solution](solutions/22.js) |
-| #23       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
+| #23       | 🍽️ Christmas dinner               | 🟢 Easy       | [Description](challenges/23.md)  | [Solution](solutions/23.js) |
 | #24       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
 | #25       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
 
