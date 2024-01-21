@@ -31,7 +31,7 @@ This repository contains my solutions to **25** challenges proposed by [Midudev]
 | #22       | 🚂 Programming language           | 🟢 Easy       | [Description](challenges/22.md)  | [Solution](solutions/22.js) |
 | #23       | 🍽️ Christmas dinner               | 🟢 Easy       | [Description](challenges/23.md)  | [Solution](solutions/23.js) |
 | #24       | 🪜 Jump on the stairs             | 🟠 Medium     | [Description](challenges/24.md)  | [Solution](solutions/24.js) |
-| #25       | _Coming soon..._                  | ⚪️ _unknown_  | _Coming soon..._                 | _Coming soon..._            |
+| #25       | 🗺️ Calculating distances          | 🟠 Medium     | [Description](challenges/25.md)  | [Solution](solutions/25.js) |
 
 ## Installation
 To run the solutions, you need to have Node.js installed on your machine. Once you have Node.js installed, clone this repository and run each solution js file.
